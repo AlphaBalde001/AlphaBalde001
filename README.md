@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**AlphaBalde001/AlphaBalde001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Alpha Balde a junior computer science major at Lehman College. I am interested in building tech and robotoics. I have a hobby of building gaming computers since the age of 16 and sharing my knowledge of computers and new tech. My goal is to have first hands on testing with new products 
 
-Here are some ideas to get you started:
+this is just the start
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### My code skills 
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
+
+### where you can reach me
+
+<a href = "https://www.linkedin.com/in/alpha--balde/" /> <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height = "48" />
+
+
