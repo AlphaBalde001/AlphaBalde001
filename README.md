@@ -2,7 +2,7 @@
 
 My name is Alpha Balde a junior computer science major at Lehman College. I am interested in building tech and robotoics. I have a hobby of building gaming computers since the age of 16 and sharing my knowledge of computers and new tech. My goal is to have first hands on testing with new products 
 
-this is just the start
+this is just the start!
 
 
 ### My code skills 
